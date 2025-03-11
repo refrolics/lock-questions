@@ -1,197 +1,972 @@
 [
-{"question" :"Complete the word which means: to express amusement, especially by emitting a succession of vocal sounds" , "answer" :"laugh" , "type":"english"},
-{"question" :"Complete the word which means: past tense of laugh" , "answer" :"laughed" , "type":"english"},
-{"question" :"Complete the word which means: the action or sound of laughing." , "answer" :"laughter" , "type":"english"},
-{"question" :"Complete the word which means: sad because one has no friends or company." , "answer" :"lonely" , "type":"english"},
-{"question" :"Complete the word which means: a machine that produces power, especially one that supplies power to a vehicle.","answer" :"motor","type":"english"},
-{"question" :"Complete the word which means: in a pleasant or kind way.","answer" :"nicely","type":"english"},
-{"question" :"Complete the word which means: recently; not long ago","answer" :"Lately","type":"english"},
-{"question" :"Complete the word which means: at the most recent time; recently.","answer" :"latest","type":"english"},
-{"question" :"Complete the word which means: exquisite; beautiful.","answer" :"lovely","type":"english"},
-{"question" :"Complete the word which means: a person visiting someone or somewhere, especially socially.","answer" :"visitor","type":"english"},
-{"question" :"Complete the word which means: the fact or quality of being alike; similarity.","answer" :"likeness","type":"english"},
-{"question" :"Complete the word which means: free from harm or risk.","answer" :"safely","type":"english"},
-{"question" :"Complete the word which means: the state or condition of lacking strength.","answer" :"weakness","type":"english"},
-{"question" :"Complete the word which means: proably, maybe","answer" :"Likely","type":"english"},
-{"question" :"Complete the word which means: give (someone) facts or information; tell.","answer" :"inform","type":"english"},
-{"question" :"Complete the word which means: an act of defeating an enemy or opponent.","answer" :"victory","type":"english"},
-{"question" :"Complete the word which means: a person who performs duties for others, especially a person employed in a house on domestic duties or as a personal assistant.","answer" :"servant","type":"english"},
-{"question" :"Complete the word which means: despite the fact that; although.","answer" :"though","type":"english"},
-{"question" :"Complete the word which means: guidance or recommendations offered with regard to future action.","answer" :"advice","type":"english"},
-{"question" :"Complete the word which means: far away in space or time.","answer" :"distant","type":"english"},
-{"question" :"Complete the word which means: cause (someone) to find something funny; entertain.","answer" :"amuse","type":"english"},
-{"question" :"Complete the word which means: embarrassed or guilty because of one's actions, characteristics, or associations.","answer" :"ashamed","type":"english"},
-{"question" :"Complete the word which means: reach a place.","answer" :"arrive","type":"english"},
-{"question" :"Complete the word which means: occurring continuously over a period of time.","answer" :"constant","type":"english"},
-{"question" :"Complete the word which means: confess to be true or to be the case.","answer" :"admit","type":"english"},
-{"question" :"Complete the word which means: an extensive group of states or countries ruled by a single monarch or ruling authority.","answer" :"empire","type":"english"},
-{"question" :"Complete the word which means: of great significance or value.","answer" :"important","type":"english"},
-{"question" :"Complete the word which means: the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, especially as opposed to humans or human creations.","answer" :"nature","type":"english"},
-{"question" :"Complete the word which means: regard with respect or warm approval.","answer" :"admire","type":"english"},
-{"question" :"Complete the word which means: an unusual and exciting, typically hazardous, experience or activity.","answer" :"adventure","type":"english"},
-{"question" :"Complete the word which means: a person who buys ans sells things","answer" :"merchant","type":"english"},
-{"question" :"Complete the word which means: despite the fact that; although.","answer" :"through","type":"english"},
-{"question" :"Complete the word which means: the period of time at the end of the day, usually from about 6 p.m. to bedtime.","answer" :"evening","type":"english"},
-{"question" :"Complete the word which means: a thing that happens or takes place, especially one of importance.","answer" :"event","type":"english"},
-{"question" :"Complete the word which means: an imaginary line drawn around the earth equally distant from both poles, dividing the earth into northern and southern hemispheres and forming a great circle.","answer" :"equator","type":"english"},
-{"question" :"Complete the word which means: sufficient for what is required; adequate.","answer" :"enough","type":"english"},
-{"question" :"Complete the word which means: a material thing that can be seen and touched.","answer" :"object","type":"english"},
-{"question" :"Complete the word which means: a person or thing that is being discussed, described, or dealt with.","answer" :"subject","type":"english"},
-{"question" :"Complete the word which means: a small or medium-sized Old World songbird, typically having a brown or gray back with a red or pink breast.","answer" :"robin","type":"english"},
-{"question" :"Complete the word which means: a day of festivity or recreation when no work is done.","answer" :"holiday","type":"english"},
-{"question" :"Complete the word which means: a person whose occupation is to navigate or assist in navigating ships.","answer" :"sailor","type":"english"},
-{"question" :"Complete the word which means: a person whose occupation is making fitted clothes such as suits, pants, and jackets to measure.","answer" :"tailor","type":"english"},
-{"question" :"Complete the word which means: a track or set of tracks made of steel rails along which passenger and freight trains move.","answer" :"railway","type":"english"},
-{"question" :"Complete the word which means: done, produced, or occurring every day or every weekday.","answer" :"daily","type":"english"},
-{"question" :"Complete the word which means: having a coarse or uneven surface; not smooth or level.","answer" :"rough","type":"english"},
-{"question" :"Complete the word which means: strong enough to withstand adverse conditions or rough handling.","answer" :"tough","type":"english"},
-{"question" :"Complete the word which means: with much rain.","answer" :"rainy","type":"english"},
-{"question" :"Complete the word which means: consisting of or abounding in rocks.","answer" :"rocky","type":"english"},
-{"question" :"Complete the word which means: a small finchlike Old World bird with a stout bill, typically with brown, gray, or white plumage.","answer" :"sparrow","type":"english"},
-{"question" :"Complete the word which means: a small songbird with long pointed wings and a forked tail, noted for its rapid flight.","answer" :"swallow","type":"english"},
-{"question" :"Complete the word which means: used to indicate duty or correctness, typically when criticizing someone's actions.","answer" :"ought","type":"english"},
-{"question" :"Complete the word which means: a low area of land between hills or mountains, typically with a river or stream flowing through it.","answer" :"valley","type":"english"},
-{"question" :"Complete the word which means: a tapering orange-colored root eaten as a vegetable.","answer" :"carrot","type":"english"},
-{"question" :"Complete the word which means: throw in various random directions.","answer" :"scatter","type":"english"},
-{"question" :"Complete the word which means: plural of valley.","answer" :"valleys","type":"english"},
-{"question" :"Complete the word which means: (of a horse or other animal) to go at the fastest pace by running with all four feet off the ground together in each stride.","answer" :"gallop","type":"english"},
-{"question" :"Complete the word which means: past tense of fight.","answer" :"fought","type":"english"},
-{"question" :"Complete the word which means: a yellow alloy of copper and zinc.","answer" :"brass","type":"english"},
-{"question" :"Complete the word which means: a group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.","answer" :"village","type":"english"},
-{"question" :"Complete the word which means: a leafy green vegetable grown in a variety of forms.","answer" :"cabbage","type":"english"},
-{"question" :"Complete the word which means: past tense of buy.","answer" :"bought","type":"english"},
-{"question" :"Complete the word which means: tattered or worn out.","answer" :"ragged","type":"english"},
-{"question" :"Complete the word which means: past tense of bring.","answer" :"brought","type":"english"},
-{"question" :"Complete the word which means: an idea or opinion produced by thinking","answer" :"thought","type":"english"},
-{"question" :"Complete the word which means: having no one else present; on one's own.","answer" :"alone","type":"english"},
-{"question" :"Complete the word which means: be among/amongst - be included in (a group or set).","answer" :"among","type":"english"},
-{"question" :"Complete the word which means: highly unpleasant, especially to one's senses or feelings.","answer" :"nasty","type":"english"},
-{"question" :"Complete the word which means: done or acting with excessive speed or urgency; hurried.","answer" :"hasty","type":"english"},
-{"question" :"Complete the word which means: disappear suddenly and completely.","answer" :"vanish","type":"english"},
-{"question" :"Complete the word which means: send (someone) away from a country or place as an official punishment.","answer" :"banish","type":"english"},
-{"question" :"Complete the word which means: elaborate in structure or decoration.","answer" :"fancy","type":"english"},
-{"question" :"Complete the word which means: unpleasant or repulsive, especially in appearance.","answer" :"ugly","type":"english"},
-{"question" :"Complete the word which means: from one side to the other of (a place, area, or surface).","answer" :"across","type":"english"},
-{"question" :"Complete the word which means: in opposition to.","answer" :"against","type":"english"},
-{"question" :"Complete the word which means: situated in or full of shade.","answer" :"shady","type":"english"},
-{"question" :"Complete the word which means: the devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books.","answer" :"study","type":"english"},
-{"question" :"Complete the word which means: die, especially in a violent or sudden way.","answer" :"perish","type":"english"},
-{"question" :"Complete the word which means: in the Christian Church, a small administrative district typically having its own church and a priest or pastor.","answer" :"parish","type":"english"},
-{"question" :"Complete the word which means: make the surface of (something) smooth and shiny by rubbing it.","answer" :"polish","type":"english"},
-{"question" :"Complete the word which means: relating to Wales or its language.","answer" :"Welsh","type":"english"},
-{"question" :"Complete the word which means: an area of closely cut grass around a house or in a park or garden.","answer" :"lawn","type":"english"},
-{"question" :"Complete the word which means: the first appearance of light in the sky before sunrise.","answer" :"dawn","type":"english"},
-{"question" :"Complete the word which means: known about by many people.","answer" :"famous","type":"english"},
-{"question" :"Complete the word which means: able or likely to cause harm or injury.","answer" :"dangerous","type":"english"},
-{"question" :"Complete the word which means: making sure of avoiding potential danger, trouble, or mistakes.","answer" :"careful","type":"english"},
-{"question" :"Complete the word which means: present tense third person of lay.","answer" :"lays","type":"english"},
-{"question" :"Complete the word which means: present participle of lay.","answer" :"laying","type":"english"},
-{"question" :"Complete the word which means: past participle of lay.","answer" :"laid","type":"english"},
-{"question" :"Complete the word which means: in a way that deliberately avoids potential danger, trouble, or mistakes; cautiously.","answer" :"carefully","type":"english"},
-{"question" :"Complete the word which means: a combination of qualities that pleases the intellect or morals.","answer" :"beauty","type":"english"},
-{"question" :"Complete the word which means: pleasing the senses or mind aesthetically.","answer" :"beautiful","type":"english"},
-{"question" :"Complete the word which means: pleased and relieved.","answer" :"thankful","type":"english"},
-{"question" :"Complete the word which means: up to (the point in time or the event mentioned).","answer" :"until","type":"english"},
-{"question" :"Complete the word which means: not able to do something.","answer" :"unable","type":"english"},
-{"question" :"Complete the word which means: loyal, constant, and steadfast.","answer" :"faithfully","type":"english"},
-{"question" :"Complete the word which means: used to greet someone in a polite or friendly way.","answer" :"welcome","type":"english"},
-{"question" :"Complete the word which means: take a brief or hurried look.","answer" :"glance","type":"english"},
-{"question" :"Complete the word which means: move forward in a purposeful way.","answer" :"advance","type":"english"},
-{"question" :"Complete the word which means: the length of space between two points.","answer" :"distance","type":"english"},
-{"question" :"Complete the word which means: a main branch of a tree.","answer" :"bough","type":"english"},
-{"question" :"Complete the word which means: a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory.","answer" :"nation","type":"english"},
-{"question" :"Complete the word which means: a commercial business.","answer" :"company","type":"english"},
-{"question" :"Complete the word which means: an elastic hydrocarbon polymer made from a milky juice obtained from tropical plants (especially the rubber tree).","answer" :"rubber","type":"english"},
-{"question" :"Complete the word which means: a regular stopping place on a public transport route, especially one on a railway line.","answer" :"station","type":"english"},
-{"question" :"Complete the word which means: a person or animal with whom one spends a lot of time or with whom one travels.","answer" :"companion","type":"english"},
-{"question" :"Complete the word which means: a projectile fired from a rifle, revolver, or other small firearm.","answer" :"bullet","type":"english"},
-{"question" :"Complete the word which means: the action of saying words aloud to be typed, written down, or recorded on tape.","answer" :"dictation","type":"english"},
-{"question" :"Complete the word which means: surprise or impress (someone) greatly.","answer" :"astonish","type":"english"},
-{"question" :"Complete the word which means: movement.","answer" :"motion","type":"english"},
-{"question" :"Complete the word which means: prepare and issue (a book, journal, piece of music, or other work) for public sale.","answer" :"publish","type":"english"},
-{"question" :"Complete the word which means: an angry argument or disagreement, typically between people who are usually on good terms.","answer" :"quarrel","type":"english"},
-{"question" :"Complete the word which means: a cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them.","answer" :"barrel","type":"english"},
-{"question" :"Complete the word which means: a sentence worded or expressed so as to elicit information.","answer" :"question","type":"english"},
-{"question" :"Complete the word which means: come into sight; become visible or present.","answer" :"appear","type":"english"},
-{"question" :"Complete the word which means: a unit of liquid capacity equal to a quarter of a gallon or two pints, equivalent in the US to approximately 0.94 litre.","answer" :"quart","type":"english"},
-{"question" :"Complete the word which means: each of four equal or corresponding parts into which something is or can be divided.","answer" :"quarter","type":"english"},
-{"question" :"Complete the word which means: fixed or fastened firmly; difficult to move or undo.","answer" :"tight","type":"english"},
-{"question" :"Complete the word which means: small in degree; inconsiderable.","answer" :"slight","type":"english"},
-{"question" :"Complete the word which means: please (someone) greatly.","answer" :"delight","type":"english"},
-{"question" :"Complete the word which means: very large, powerful, or important.","answer" :"mighty","type":"english"},
-{"question" :"Complete the word which means: a cylindrical container with a handle, used to hold and carry liquids.","answer" :"bucket","type":"english"},
-{"question" :"Complete the word which means: a brass musical instrument with a flared bell and a bright, penetrating tone.","answer" :"trumpet","type":"english"},
-{"question" :"Complete the word which means: a woody plant of low height, typically having several stems.","answer" :"shrub","type":"english"},
-{"question" :"Complete the word which means: the state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.","answer" :"liberty","type":"english"},
-{"question" :"Complete the word which means: a mistake.","answer" :"error","type":"english"},
-{"question" :"Complete the word which means: extreme fear.","answer" :"terror","type":"english"},
-{"question" :"Complete the word which means: a long, narrow strip of fabric, used for tying, binding, or decoration.","answer" :"ribbon","type":"english"},
-{"question" :"Complete the word which means: a soft white fibrous substance that surrounds the seeds of a plant and is made into textile fiber and thread for sewing.","answer" :"cotton","type":"english"},
-{"question" :"Complete the word which means: relating to Scotland or its people or language.","answer" :"Scottish","type":"english"},
-{"question" :"Complete the word which means: the flesh of mature sheep used for meat.","answer" :"mutton","type":"english"},
-{"question" :"Complete the word which means: a flower or a mass of flowers, especially those of a fruit tree or shrub.","answer" :"blossom","type":"english"},
-{"question" :"Complete the word which means: free from error; in accordance with fact or truth.","answer" :"correct","type":"english"},
-{"question" :"Complete the word which means: a soft white limestone (a form of calcium carbonate) formed from the skeletal remains of sea creatures.","answer" :"chalk","type":"english"},
-{"question" :"Complete the word which means: the main stem of a herbaceous plant.","answer" :"stalk","type":"english"},
-{"question" :"Complete the word which means: a white crystalline substance, sodium chloride, used for seasoning or preserving food.","answer" :"salt","type":"english"},
-{"question" :"Complete the word which means: change in character or composition, typically in a comparatively small but significant way.","answer" :"alter","type":"english"},
-{"question" :"Complete the word which means: look steadily and intently, especially in admiration, surprise, or thought.","answer" :"gaze","type":"english"},
-{"question" :"Complete the word which means: a very large or fiercely burning fire.","answer" :"blaze","type":"english"},
-{"question" :"Complete the word which means: an instrument with a sharp blade or combination of blades, used to remove unwanted hair from the face or body.","answer" :"razor","type":"english"},
-{"question" :"Complete the word which means: unwilling to work or use energy.","answer" :"lazy","type":"english"},
-{"question" :"Complete the word which means: find (something or someone) unexpectedly or in the course of a search.","answer" :"discover","type":"english"},
-{"question" :"Complete the word which means: noticeably different from something else of a similar type.","answer" :"distinct","type":"english"},
-{"question" :"Complete the word which means: talk about (something) with another person or group of people.","answer" :"discuss","type":"english"},
-{"question" :"Complete the word which means: extreme anxiety, sorrow, or pain.","answer" :"distress","type":"english"},
-{"question" :"Complete the word which means: the relative extent or magnitude of something.","answer" :"size","type":"english"},
-{"question" :"Complete the word which means: a thing given as a reward to the winner of a competition or in recognition of an outstanding achievement.","answer" :"prize","type":"english"},
-{"question" :"Complete the word which means: a feeling of distaste or hostility.","answer" :"dislike","type":"english"},
-{"question" :"Complete the word which means: bring shame or dishonor to (someone or something).","answer" :"disgrace","type":"english"},
-{"question" :"Complete the word which means: Very bad or nasty.","answer" :"horrid","type":"english"},
-{"question" :"Complete the word which means: A drink made from beans that grown-ups usually drink to wake up.","answer" :"coffee","type":"english"},
-{"question" :"Complete the word which means: To happen.","answer" :"occur","type":"english"},
-{"question" :"Complete the word which means: Something that happened.","answer" :"occurred","type":"english"},
-{"question" :"Complete the word which means: Something you think is true.","answer" :"belief","type":"english"},
-{"question" :"Complete the word which means: To think something is true.","answer" :"believe","type":"english"},
-{"question" :"Complete the word which means: To feel very sad, especially when someone dies.","answer" :"grive","type":"english"},
-{"question" :"Complete the word which means: Talking about 'us' and nobody else.","answer" :"ourselves","type":"english"},
-{"question" :"Complete the word which means: A place where ships stop to load and unload things.","answer" :"wharf","type":"english"},
-{"question" :"Complete the word which means: Your brother’s or sister’s daughter.","answer" :"niece","type":"english"},
-{"question" :"Complete the word which means: A part of something.","answer" :"piece","type":"english"},
-{"question" :"Complete the word which means: To take up space or time.","answer" :"occupy","type":"english"},
-{"question" :"Complete the word which means: Empty inside.","answer" :"hollow","type":"english"},
-{"question" :"Complete the word which means: Not remembered.","answer" :"forgotten","type":"english"},
-{"question" :"Complete the word which means: To put things together.","answer" :"combine","type":"english"},
-{"question" :"Complete the word which means: Grabbed or held something.","answer" :"caught","type":"english"},
-{"question" :"Complete the word which means: Showed someone how to do something.","answer" :"taught","type":"english"},
-{"question" :"Complete the word which means: A girl child of parents.","answer" :"daughter","type":"english"},
-{"question" :"Complete the word which means: Not behaving well.","answer" :"naughty","type":"english"},
-{"question" :"Complete the word which means: To mix something around.","answer" :"stir","type":"english"},
-{"question" :"Complete the word which means: Mixed something around.","answer" :"stirred","type":"english"},
-{"question" :"Complete the word which means: A glass that shows your reflection.","answer" :"mirror","type":"english"},
-{"question" :"Complete the word which means: A type of hat or cover.","answer" :"bonnet","type":"english"},
-{"question" :"Complete the word which means: To make something with yarn and needles.","answer" :"knit","type":"english"},
-{"question" :"Complete the word which means: Making something with yarn and needles.","answer" :"knitting","type":"english"},
-{"question" :"Complete the word which means: A soldier in armor from long ago.","answer" :"knight","type":"english"},
-{"question" :"Complete the word which means: Something you are good at doing.","answer" :"skill","type":"english"},
-{"question" :"Complete the word which means: A place where people work.","answer" :"office","type":"english"},
-{"question" :"Complete the word which means: Someone in charge, like a policeman or a leader.","answer" :"officer","type":"english"},
-{"question" :"Complete the word which means: Not the same.","answer" :"different","type":"english"},
-{"question" :"Complete the word which means: A piece of clothing worn around the waist.","answer" :"skirt","type":"english"},
-{"question" :"Complete the word which means: A round vegetable that grows underground.","answer" :"potato","type":"english"},
-{"question" :"Complete the word which means: More than one potato.","answer" :"potatoes","type":"english"},
-{"question" :"Complete the word which means: A red, round vegetable (really a fruit!).","answer" :"tomato","type":"english"},
-{"question" :"Complete the word which means: More than one tomato.","answer" :"tomatoes","type":"english"},
-{"question" :"Complete the word which means: How important or useful something is.","answer" :"value","type":"english"},
-{"question" :"Complete the word which means: To keep going.","answer" :"continue","type":"english"},
-{"question" :"Complete the word which means: A carved or built figure of a person or thing.","answer" :"statue","type":"english"},
-{"question" :"Complete the word which means: A thin string used for sewing.","answer" :"thread","type":"english"},
-{"question" :"Complete the word which means: Choosing one thing and not another.","answer" :"instead","type":"english"},
-{"question" :"Complete the word which means: Moving or doing something without stopping.","answer" :"steadily","type":"english"},
-{"question" :"Complete the word which means: Very tired.","answer" :"weary","type":"english"},
-{"question" :"Complete the word which means: In a tired way.","answer" :"wearily","type":"english"},
-{"question" :"Complete the word which means: An enemy.","answer" :"foe","type":"english"},
-{"question" :"Complete the word which means: Special writing that sounds nice, sometimes with rhymes.","answer" :"poetry","type":"english"},
-{"question" :"Complete the word which means: A person who cuts and sells meat.","answer" :"butcher","type":"english"},
-{"question" :"Complete the word which means: An old type of money used in some countries.","answer" :"shilling","type":"english"},
+  {
+    "question": "Complete the word which means: past tense of laugh",
+    "answer": "laughed",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the action or sound of laughing.",
+    "answer": "laughter",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: sad because one has no friends or company.",
+    "answer": "lonely",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a machine that produces power, especially one that supplies power to a vehicle.",
+    "answer": "motor",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: in a pleasant or kind way.",
+    "answer": "nicely",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: recently; not long ago",
+    "answer": "Lately",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: at the most recent time; recently.",
+    "answer": "latest",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: exquisite; beautiful.",
+    "answer": "lovely",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a person visiting someone or somewhere, especially socially.",
+    "answer": "visitor",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the fact or quality of being alike; similarity.",
+    "answer": "likeness",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: free from harm or risk.",
+    "answer": "safely",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the state or condition of lacking strength.",
+    "answer": "weakness",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: proably, maybe",
+    "answer": "Likely",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: give (someone) facts or information; tell.",
+    "answer": "inform",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an act of defeating an enemy or opponent.",
+    "answer": "victory",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a person who performs duties for others, especially a person employed in a house on domestic duties or as a personal assistant.",
+    "answer": "servant",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: despite the fact that; although.",
+    "answer": "though",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: guidance or recommendations offered with regard to future action.",
+    "answer": "advice",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: far away in space or time.",
+    "answer": "distant",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: cause (someone) to find something funny; entertain.",
+    "answer": "amuse",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: embarrassed or guilty because of one's actions, characteristics, or associations.",
+    "answer": "ashamed",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: reach a place.",
+    "answer": "arrive",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: occurring continuously over a period of time.",
+    "answer": "constant",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: confess to be true or to be the case.",
+    "answer": "admit",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an extensive group of states or countries ruled by a single monarch or ruling authority.",
+    "answer": "empire",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: of great significance or value.",
+    "answer": "important",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, especially as opposed to humans or human creations.",
+    "answer": "nature",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: regard with respect or warm approval.",
+    "answer": "admire",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an unusual and exciting, typically hazardous, experience or activity.",
+    "answer": "adventure",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a person who buys ans sells things",
+    "answer": "merchant",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: despite the fact that; although.",
+    "answer": "through",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the period of time at the end of the day, usually from about 6 p.m. to bedtime.",
+    "answer": "evening",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a thing that happens or takes place, especially one of importance.",
+    "answer": "event",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an imaginary line drawn around the earth equally distant from both poles, dividing the earth into northern and southern hemispheres and forming a great circle.",
+    "answer": "equator",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: sufficient for what is required; adequate.",
+    "answer": "enough",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a material thing that can be seen and touched.",
+    "answer": "object",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a person or thing that is being discussed, described, or dealt with.",
+    "answer": "subject",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a small or medium-sized Old World songbird, typically having a brown or gray back with a red or pink breast.",
+    "answer": "robin",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a day of festivity or recreation when no work is done.",
+    "answer": "holiday",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a person whose occupation is to navigate or assist in navigating ships.",
+    "answer": "sailor",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a person whose occupation is making fitted clothes such as suits, pants, and jackets to measure.",
+    "answer": "tailor",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a track or set of tracks made of steel rails along which passenger and freight trains move.",
+    "answer": "railway",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: done, produced, or occurring every day or every weekday.",
+    "answer": "daily",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: having a coarse or uneven surface; not smooth or level.",
+    "answer": "rough",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: strong enough to withstand adverse conditions or rough handling.",
+    "answer": "tough",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: with much rain.",
+    "answer": "rainy",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: consisting of or abounding in rocks.",
+    "answer": "rocky",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a small finchlike Old World bird with a stout bill, typically with brown, gray, or white plumage.",
+    "answer": "sparrow",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a small songbird with long pointed wings and a forked tail, noted for its rapid flight.",
+    "answer": "swallow",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: used to indicate duty or correctness, typically when criticizing someone's actions.",
+    "answer": "ought",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a low area of land between hills or mountains, typically with a river or stream flowing through it.",
+    "answer": "valley",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a tapering orange-colored root eaten as a vegetable.",
+    "answer": "carrot",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: throw in various random directions.",
+    "answer": "scatter",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: plural of valley.",
+    "answer": "valleys",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: (of a horse or other animal) to go at the fastest pace by running with all four feet off the ground together in each stride.",
+    "answer": "gallop",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: past tense of fight.",
+    "answer": "fought",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a yellow alloy of copper and zinc.",
+    "answer": "brass",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+    "answer": "village",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a leafy green vegetable grown in a variety of forms.",
+    "answer": "cabbage",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: past tense of buy.",
+    "answer": "bought",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: tattered or worn out.",
+    "answer": "ragged",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: past tense of bring.",
+    "answer": "brought",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an idea or opinion produced by thinking",
+    "answer": "thought",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: having no one else present; on one's own.",
+    "answer": "alone",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: be among/amongst - be included in (a group or set).",
+    "answer": "among",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: highly unpleasant, especially to one's senses or feelings.",
+    "answer": "nasty",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: done or acting with excessive speed or urgency; hurried.",
+    "answer": "hasty",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: disappear suddenly and completely.",
+    "answer": "vanish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: send (someone) away from a country or place as an official punishment.",
+    "answer": "banish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: elaborate in structure or decoration.",
+    "answer": "fancy",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: unpleasant or repulsive, especially in appearance.",
+    "answer": "ugly",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: from one side to the other of (a place, area, or surface).",
+    "answer": "across",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: in opposition to.",
+    "answer": "against",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: situated in or full of shade.",
+    "answer": "shady",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books.",
+    "answer": "study",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: die, especially in a violent or sudden way.",
+    "answer": "perish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: in the Christian Church, a small administrative district typically having its own church and a priest or pastor.",
+    "answer": "parish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: make the surface of (something) smooth and shiny by rubbing it.",
+    "answer": "polish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: relating to Wales or its language.",
+    "answer": "Welsh",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an area of closely cut grass around a house or in a park or garden.",
+    "answer": "lawn",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the first appearance of light in the sky before sunrise.",
+    "answer": "dawn",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: known about by many people.",
+    "answer": "famous",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: able or likely to cause harm or injury.",
+    "answer": "dangerous",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: making sure of avoiding potential danger, trouble, or mistakes.",
+    "answer": "careful",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: present tense third person of lay.",
+    "answer": "lays",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: present participle of lay.",
+    "answer": "laying",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: past participle of lay.",
+    "answer": "laid",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: in a way that deliberately avoids potential danger, trouble, or mistakes; cautiously.",
+    "answer": "carefully",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a combination of qualities that pleases the intellect or morals.",
+    "answer": "beauty",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: pleasing the senses or mind aesthetically.",
+    "answer": "beautiful",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: pleased and relieved.",
+    "answer": "thankful",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: up to (the point in time or the event mentioned).",
+    "answer": "until",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: not able to do something.",
+    "answer": "unable",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: loyal, constant, and steadfast.",
+    "answer": "faithfully",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: used to greet someone in a polite or friendly way.",
+    "answer": "welcome",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: take a brief or hurried look.",
+    "answer": "glance",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: move forward in a purposeful way.",
+    "answer": "advance",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the length of space between two points.",
+    "answer": "distance",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a main branch of a tree.",
+    "answer": "bough",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory.",
+    "answer": "nation",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a commercial business.",
+    "answer": "company",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an elastic hydrocarbon polymer made from a milky juice obtained from tropical plants (especially the rubber tree).",
+    "answer": "rubber",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a regular stopping place on a public transport route, especially one on a railway line.",
+    "answer": "station",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a person or animal with whom one spends a lot of time or with whom one travels.",
+    "answer": "companion",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a projectile fired from a rifle, revolver, or other small firearm.",
+    "answer": "bullet",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the action of saying words aloud to be typed, written down, or recorded on tape.",
+    "answer": "dictation",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: surprise or impress (someone) greatly.",
+    "answer": "astonish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: movement.",
+    "answer": "motion",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: prepare and issue (a book, journal, piece of music, or other work) for public sale.",
+    "answer": "publish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an angry argument or disagreement, typically between people who are usually on good terms.",
+    "answer": "quarrel",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them.",
+    "answer": "barrel",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a sentence worded or expressed so as to elicit information.",
+    "answer": "question",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: come into sight; become visible or present.",
+    "answer": "appear",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a unit of liquid capacity equal to a quarter of a gallon or two pints, equivalent in the US to approximately 0.94 litre.",
+    "answer": "quart",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: each of four equal or corresponding parts into which something is or can be divided.",
+    "answer": "quarter",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: fixed or fastened firmly; difficult to move or undo.",
+    "answer": "tight",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: small in degree; inconsiderable.",
+    "answer": "slight",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: please (someone) greatly.",
+    "answer": "delight",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: very large, powerful, or important.",
+    "answer": "mighty",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a cylindrical container with a handle, used to hold and carry liquids.",
+    "answer": "bucket",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a brass musical instrument with a flared bell and a bright, penetrating tone.",
+    "answer": "trumpet",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a woody plant of low height, typically having several stems.",
+    "answer": "shrub",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+    "answer": "liberty",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a mistake.",
+    "answer": "error",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: extreme fear.",
+    "answer": "terror",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a long, narrow strip of fabric, used for tying, binding, or decoration.",
+    "answer": "ribbon",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a soft white fibrous substance that surrounds the seeds of a plant and is made into textile fiber and thread for sewing.",
+    "answer": "cotton",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: relating to Scotland or its people or language.",
+    "answer": "Scottish",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the flesh of mature sheep used for meat.",
+    "answer": "mutton",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a flower or a mass of flowers, especially those of a fruit tree or shrub.",
+    "answer": "blossom",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: free from error; in accordance with fact or truth.",
+    "answer": "correct",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a soft white limestone (a form of calcium carbonate) formed from the skeletal remains of sea creatures.",
+    "answer": "chalk",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the main stem of a herbaceous plant.",
+    "answer": "stalk",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a white crystalline substance, sodium chloride, used for seasoning or preserving food.",
+    "answer": "salt",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: change in character or composition, typically in a comparatively small but significant way.",
+    "answer": "alter",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: look steadily and intently, especially in admiration, surprise, or thought.",
+    "answer": "gaze",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a very large or fiercely burning fire.",
+    "answer": "blaze",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: an instrument with a sharp blade or combination of blades, used to remove unwanted hair from the face or body.",
+    "answer": "razor",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: unwilling to work or use energy.",
+    "answer": "lazy",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: find (something or someone) unexpectedly or in the course of a search.",
+    "answer": "discover",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: noticeably different from something else of a similar type.",
+    "answer": "distinct",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: talk about (something) with another person or group of people.",
+    "answer": "discuss",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: extreme anxiety, sorrow, or pain.",
+    "answer": "distress",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: the relative extent or magnitude of something.",
+    "answer": "size",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a thing given as a reward to the winner of a competition or in recognition of an outstanding achievement.",
+    "answer": "prize",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: a feeling of distaste or hostility.",
+    "answer": "dislike",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: bring shame or dishonor to (someone or something).",
+    "answer": "disgrace",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Very bad or nasty.",
+    "answer": "horrid",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A drink made from beans that grown-ups usually drink to wake up.",
+    "answer": "coffee",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To happen.",
+    "answer": "occur",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Something that happened.",
+    "answer": "occurred",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Something you think is true.",
+    "answer": "belief",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To think something is true.",
+    "answer": "believe",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To feel very sad, especially when someone dies.",
+    "answer": "grive",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Talking about \"us\" and nobody else.",
+    "answer": "ourselves",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A place where ships stop to load and unload things.",
+    "answer": "wharf",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Your brother\u2019s or sister\u2019s daughter.",
+    "answer": "niece",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A part of something.",
+    "answer": "piece",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To take up space or time.",
+    "answer": "occupy",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Empty inside.",
+    "answer": "hollow",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Not remembered.",
+    "answer": "forgotten",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To put things together.",
+    "answer": "combine",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Grabbed or held something.",
+    "answer": "caught",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Showed someone how to do something.",
+    "answer": "taught",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A girl child of parents.",
+    "answer": "daughter",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Not behaving well.",
+    "answer": "naughty",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To mix something around.",
+    "answer": "stir",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Mixed something around.",
+    "answer": "stirred",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A glass that shows your reflection.",
+    "answer": "mirror",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A type of hat or cover.",
+    "answer": "bonnet",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To make something with yarn and needles.",
+    "answer": "knit",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Making something with yarn and needles.",
+    "answer": "knitting",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A soldier in armor from long ago.",
+    "answer": "knight",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Something you are good at doing.",
+    "answer": "skill",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A place where people work.",
+    "answer": "office",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Someone in charge, like a policeman or a leader.",
+    "answer": "officer",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Not the same.",
+    "answer": "different",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A piece of clothing worn around the waist.",
+    "answer": "skirt",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A round vegetable that grows underground.",
+    "answer": "potato",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: More than one potato.",
+    "answer": "potatoes",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A red, round vegetable (really a fruit!).",
+    "answer": "tomato",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: More than one tomato.",
+    "answer": "tomatoes",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: How important or useful something is.",
+    "answer": "value",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: To keep going.",
+    "answer": "continue",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A carved or built figure of a person or thing.",
+    "answer": "statue",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A thin string used for sewing.",
+    "answer": "thread",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Choosing one thing and not another.",
+    "answer": "instead",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Moving or doing something without stopping.",
+    "answer": "steadily",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Very tired.",
+    "answer": "weary",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: In a tired way.",
+    "answer": "wearily",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: An enemy.",
+    "answer": "foe",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: Special writing that sounds nice, sometimes with rhymes.",
+    "answer": "poetry",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: A person who cuts and sells meat.",
+    "answer": "butcher",
+    "type": "english"
+  },
+  {
+    "question": "Complete the word which means: An old type of money used in some countries.",
+    "answer": "shilling",
+    "type": "english"
+  }
 ]
